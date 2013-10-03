@@ -1,3 +1,12 @@
+## v1.7.2:
+
+### Improvement
+* Fix Include conf.d/
+
+## v1.7.1:
+
+### Improvement
+
 ## v1.7.0:
 
 ### Improvement
